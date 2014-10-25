@@ -1,0 +1,5 @@
+<?php
+// Add php functions here.
+
+use Drupal\Component\Utility\String;
+use Drupal\Component\Utility\Xss;
